@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+ruby '2.3.1'
+
+gem 'grape', '~> 0.16'
+gem 'grape-entity'
+gem 'grape-swagger'
+gem 'grape-swagger-entity'
+gem 'json'
+gem 'rack-cors'
+gem 'minitest'
+
+group :development do
+  gem 'rake'
+end
