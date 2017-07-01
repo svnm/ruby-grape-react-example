@@ -37,8 +37,8 @@ const ReceiptWrapper = styled.div`
   font-size: 12px;
   font-family: VT323, monospace;
   position: fixed;
-  top: 0;
-  right: 0;
+  top: 6rem;
+  right: 2rem;
 `
 
 const Title = styled.div`

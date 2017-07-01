@@ -7,5 +7,70 @@ games:
     - code         : NL4438H
       title        : Sonic the Hedgehog
       description  : Sonic the Hedgehog
-      cost         : 23.00
+      cost         : 23.05
       image        : http://www.fullyretro.com/images/items/23324889-item-main-SMS-SONICHG1-A-1.jpg
+    - code         : NL4438H
+      title        : 'Alex Kidd: The Lost Stars'
+      description  : 'Alex Kidd: The Lost Stars'
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/77129489-item-main-SMS-ALKIDDLS-A-1.jpg
+    - code         : SMS-DRAGONCR
+      title        : Dragon Crystal
+      description  : Dragon Crystal
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/94196874-item-main-SMS-DRAGONCR-A-1.jpg
+    - code         : SMS-ALTBEAST
+      title        : Altered Beast
+      description  : Altered Beast
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/24806470-item-main-SMS-ALTBEAST-A-1.jpg
+    - code         : SMD-CALIGAM1
+      title        : California Games
+      description  : California Games
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/26979220-item-main-SMD-CALIGAM1-A-1.jpg
+    - code         : SMD-CASTLEIL
+      title        : Castle of Illusion starring Mickey Mouse
+      description  : Castle of Illusion starring Mickey Mouse
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/7334638-item-main-SMD-CASTLEIL-A-1.jpg
+    - code         : SMD-DYTOYSTO
+      title        : "Disney's Toy Story"
+      description  : "Disney's Toy Story"
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/35546088-item-main-SMD-DYTOYSTO-A-1.jpg
+    - code         : SMD-EAHOCKEY
+      title        : EA Hockey
+      description  : EA Hockey
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/86778760-item-main-SMD-EAHOCKEY-A-1.jpg
+    - code         : SMD-ECCODOLP
+      title        : Ecco the Dolphin
+      description  : Ecco the Dolphin
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/48850739-item-main-SMD-ECCODOLP-A-1.jpg
+    - code         : SDC-RAYMAN2G
+      title        : 'Rayman 2: The Great Escape'
+      description  : 'Rayman 2: The Great Escape'
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/40568179-item-main-SDC-RAYMAN2G-A-1.jpg
+    - code         : SDC-DONALDGQ
+      title        : 'Donald Duck: Quack Attack'
+      description  : 'Donald Duck: Quack Attack'
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/5121112-item-main-SDC-DONALDGQ-A-1.jpg
+    - code         : SDC-FREESTYL
+      title        : Freestyle Scooter
+      description  : Freestyle Scooter
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/76461762-item-main-SDC-FREESTYL-A-1.jpg
+    - code         : SDC-METROPOL
+      title        : Metropolis Street Racer
+      description  : Metropolis Street Racer
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/43023807-item-main-SDC-METROPOL-A-1.jpg
+    - code         : SDC-MKOMBATG
+      title        : Mortal Kombat Gold
+      description  : Mortal Kombat Gold
+      cost         : 23.05
+      image        : http://www.fullyretro.com/images/items/56911218-item-main-SDC-MKOMBATG-A-1.jpg

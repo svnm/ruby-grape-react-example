@@ -1,10 +1,12 @@
 html {
-  color: #6d6e70;
+  color: #254356;
   background-color: #fff;
+  margin: 0;
+  padding: 0;
 }
 
 p, h1, h2, h3, h4, h5, span, li {
-  color: #6d6e70;
+  color: #254356;
   font-weight: normal;
   margin: 0.5rem 0;
 }

@@ -28,5 +28,9 @@
     "styled-components": "1.4.5",
     "webpack": "2.5.1",
     "webpack-dev-server": "2.4.5"
+  },
+  "dependencies": {
+    "redux": "^3.7.1",
+    "redux-saga": "^0.15.4"
   }
 }
