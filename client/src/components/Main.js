@@ -8,18 +8,13 @@ export default class extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      availableGames: [],
       orders: []
     }
   }
 
   componentDidMount () {
-    fetch(`http://localhost:9292/api/get_games`)
-    .then((response) => {
-    	return response.json()
-    }).then((data) => {
-      this.setState({availableGames: data.response.games})
-    })
+    const {onGetGames} = this.props
+    onGetGames()
   }
 
   orderGame (code, total) {
@@ -38,7 +33,7 @@ export default class extends Component {
   }
 
   render() {
-    const {availableGames} = this.state
+    const {games} = this.props
     return (
       <Wrapper>
         <Header>
@@ -52,7 +47,7 @@ export default class extends Component {
 
           <CardWrapper>
             {
-              availableGames.map((game, i) => {
+              games.map((game, i) => {
                 return (
                   <Card
                     key={i}
